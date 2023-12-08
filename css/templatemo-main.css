@@ -933,4 +933,7 @@ nav a:hover::before {
 		.fifth-content .container-fluid .footer {
 			margin-bottom: 10px;
 		}
+		.fifth-content .container-fluid .footer p {
+			font-size: 12px;
+		}
 }
