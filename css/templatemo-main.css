@@ -930,9 +930,9 @@ nav a:hover::before {
 			font-size: 20px;
 		}
 
-	.footer {
-		margin-bottom: 10px;
-	}
+		.fifth-content .container-fluid .footer {
+			margin-bottom: 10px;
+		}
 
 		.footer p {
 			font-size: 12px ;
