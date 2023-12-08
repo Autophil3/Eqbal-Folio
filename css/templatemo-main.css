@@ -756,7 +756,7 @@ nav a:hover::before {
 	font-size: 15px;
 	color: #fff;
 	padding: 20px 30px 10px 30px;
-	margin: 0 10px;
+	margin: 0 10px 10px 10px;
 }
 
 
